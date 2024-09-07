@@ -18,6 +18,7 @@ int factorial(int n){
 //6C3 = 20
 
 int nCr(int n, int r){
+    //Here I use the direct formula you can split with taking integer as value then calculate... 
     return (factorial(n))/(factorial(r) * factorial(n - r )); 
 
 }
@@ -25,7 +26,7 @@ int nCr(int n, int r){
 int main(){
 
     cout<<"factorial is "<<factorial(5)<<endl;
-
+    //Here I call the nCr function...
     cout<<"Binomial coefficent 8 or 2 is "<<nCr(6 ,3)<<endl;  
     return 0;
 }
