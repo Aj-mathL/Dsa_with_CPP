@@ -22,3 +22,14 @@ It's will be interesting If you are beginer
 
 those fuctionality in vector are useful in programming. I trying to make some web backed and web socket. So If anyone interest on those topic contact me and collaborate with me. 
 </p>
+
+
+<h3> Recursion </h3>
+<p> Today, In era of AI, everyone really exicited about Recursion. So let's a tour in Recursion 
+<br>
+Some basic Recursion program 
+<ul> 
+<li> Factorial by Recursion</li>
+<li> Sum of n by Recursion</li>
+
+</ul> </p>
