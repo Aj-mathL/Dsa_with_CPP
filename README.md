@@ -31,5 +31,7 @@ Some basic Recursion program
 <ul> 
 <li> Factorial by Recursion</li>
 <li> Sum of n by Recursion</li>
-
+<li>
+Getting the last digit and sum of a digit
+</li>
 </ul> </p>
