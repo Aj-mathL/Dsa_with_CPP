@@ -25,7 +25,7 @@ those fuctionality in vector are useful in programming. I trying to make some we
 
 
 <h3> Recursion </h3>
-<p> Today, In era of AI, everyone really exicited about Recursion. So let's a tour in Recursion 
+<p> Today, In era of AI, everyone really exicited about Recursion. So let's a tour in Recursion. If you have some idea about recursion and any suggestion about my code contact me. 
 <br>
 Some basic Recursion program 
 <ul> 
