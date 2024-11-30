@@ -35,3 +35,6 @@ Some basic Recursion program
 Getting the last digit and sum of a digit
 </li>
 </ul> </p>
+
+<h4> A Store simple Project</h4>
+<p> This is a dsa series, But I think include some project will be great to understand where we use our search and efficient algorithms are using </p>
